@@ -5,5 +5,6 @@
   <Project Path="Flera objekt i en lista/Flera objekt i en lista.csproj" />
   <Project Path="Inkapsling med privat fält och validering/Inkapsling med privat fält och validering.csproj" />
   <Project Path="Standardkonstruktor/Standardkonstruktor.csproj" />
+  <Project Path="Statisk vs Instansmetod/Statisk vs Instansmetod.csproj" />
   <Project Path="Statiskt fält som Räknare/Statiskt fält som Räknare.csproj" />
 </Solution>
