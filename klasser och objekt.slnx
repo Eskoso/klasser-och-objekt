@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="boktiteln/boktiteln.csproj" />
   <Project Path="Egenskaper (Properties) med Auto-implementering/Egenskaper (Properties) med Auto-implementering.csproj" />
+  <Project Path="Enkel Instansmetod/Enkel Instansmetod.csproj" />
+  <Project Path="Flera objekt i en lista/Flera objekt i en lista.csproj" />
+  <Project Path="Inkapsling med privat fält och validering/Inkapsling med privat fält och validering.csproj" />
+  <Project Path="Standardkonstruktor/Standardkonstruktor.csproj" />
 </Solution>
